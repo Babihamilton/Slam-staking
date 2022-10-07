@@ -1,0 +1,13 @@
+{
+  "name": "slam-smart-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/slamwallet-staking/slam-smart-contract.git",
+  "author": "Cinderella941217 <cinderella941217@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^14.2.0",
+    "truffle-plugin-verify": "^0.5.20"
+  }
+}
